@@ -1,0 +1,27 @@
+
+
+/* Section Types de produits */
+
+.pa img{
+    width: 100%;
+}
+.pa h5{
+    height: 60px;
+}
+section{
+    margin-bottom: 3em;
+}
+footer a{
+    text-decoration: none;
+}
+.inscription{
+    margin-top: 12em;
+}
+#contactForm{
+    margin: 0 15%;
+}
+@media screen AND (max-width:760px) {
+    .hidden-phone, .label-mini, .stat{
+    display: none;    
+    }
+}
